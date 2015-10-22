@@ -1,10 +1,10 @@
 --------------------------------------------------------------------------------
 -- Company: 
--- Engineer:
+-- Engineer: xoujez03
 --
 -- Create Date:   13:58:39 11/09/2013
 -- Design Name:   
--- Module Name:   C:/Users/xoujez03/ASGG/test.vhd
+-- Module Name:   
 -- Project Name:  ASGG
 -- Target Device:  
 -- Tool versions:  
