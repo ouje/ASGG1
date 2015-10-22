@@ -1,0 +1,6 @@
+work	"ASGG.vhd"
+work	"ASGG_pkg.vhd"
+work	"LFSR1.vhd"
+work	"LFSR2.vhd"
+work	"LFSR3.vhd"
+work	"XORed.vhd"
